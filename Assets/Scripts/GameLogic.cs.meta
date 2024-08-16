@@ -3,7 +3,10 @@ guid: fcef5aea63ecf074d9d01fb3b9a7caae
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - txtTime: {instanceID: 0}
+  - txtStartDirections: {instanceID: 0}
+  - clipSpaceKey: {fileID: 8300000, guid: e0e15390f8595004285caa995517c425, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
